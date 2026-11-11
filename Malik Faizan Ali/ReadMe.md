@@ -1,133 +1,210 @@
-# 💫 About Me:
-Hi, I'm Matee Ur Rehman, a Computer Science student at COMSATS University Islamabad, passionate about Artificial Intelligence, Machine Learning, and Generative AI. I enjoy building practical applications and exploring innovative AI solutions.
-- 🔭 I'm currently working on AI/ML projects, Generative AI applications, and my Final Year Project.<br>- 🤝 I'm looking to collaborate on AI/ML, Generative AI, and Python-based projects.<br>- 💡 I'm looking for help with research ideas, model improvement, and building practical AI solutions.<br>- 🌱 I'm currently learning Machine Learning, Generative AI, and AI application development.<br>- 💬 Ask me about Python, AI/ML, Generative AI, and software development.<br>- ⚡ Fun fact: I enjoy turning ideas into practical projects and learning new technologies along the way.
+<div align="center">
 
+# Malik Faizan Ali
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matee-ur-rehman-5a8a66357/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mateeurrehman512@gmail.com)
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### Building Intelligent Systems & AI · MLOps & DevOps
 
+Final-year Computer Science student at **COMSATS University Islamabad, Wah Campus**, working at the intersection of AI/ML and DevOps. Currently an intern at **Institute of Space Technology (IST)**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malikfaizanali)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malikfaizanali048-stack)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I care about closing the gap between "it works on my laptop" and "it works in production." I have shipped a full MLOps pipeline (FastAPI, Docker, Kubernetes, MLflow, Grafana) for real-world model deployment and monitoring, and I evaluate models honestly on unseen data rather than chasing a single headline metric.
+
+I am open to **AI/ML** and **DevOps / MLOps** roles where I can keep building systems that scale.
+
+- 🔭 **Currently building:** Smart Institutional Operations and Information System (Final Year Project) for Trends High School, Hassan Abdal
+- 🔬 **Researching:** Multimodal deep learning for sleep-stage classification and sleep-disordered-breathing detection
+- 🌱 **Learning:** Generative AI, Computer Vision, MLOps and cloud-native DevOps
+- 🤝 **Open to:** Internships, entry-level roles, and collaboration on AI/ML and DevOps projects
+
+---
+
+## 💼 Experience
+
+| Role | Organization | Period |
+|---|---|---|
+| **Intern** | Institute of Space Technology (IST), Islamabad | Sep 2026 – Present |
+| **AI & ML Intern** | Imperial Byte, Lahore | Jul 2026 – Sep 2026 |
+| **Software Engineer Intern** | DecentraSec, NASTP | Jul 2026 – Aug 2026 |
+| **Software Development Intern** | Pakistan Ordnance Factories, Wah Cantonment | Jun 2025 – Aug 2025 |
+
+- **Institute of Space Technology:** Engineering multimodal deep learning models and signal processing pipelines to analyze physiological and complex technical data.
+- **Imperial Byte:** Developed and fine-tuned machine learning models with Python and PyTorch, and built data processing pipelines supporting AI-driven applications.
+- **DecentraSec:** Frontend development of **ScholarMark**, a pre-submission research platform that helps researchers and students validate and refine their work, using React, Next.js and Tailwind CSS under direct CTO mentorship.
+- **Pakistan Ordnance Factories:** Completed a 6-week software development internship. Built and deployed PlantPlanet on Vercel, manually deployed a backend API to a DigitalOcean VPS (Nginx, PM2, firewall over SSH), and strengthened JavaScript, Python, REST API and Git/GitHub skills.
+
+---
+
+## 🎓 Education & Certifications
+
+**BS Computer Science**, COMSATS University Islamabad, Wah Campus (Sep 2023 – Sep 2027)
+
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+- Oracle Data Platform 2025 Foundations Associate (1Z0-1195-25)
+- Deloitte Australia Data Analytics Job Simulation
+- AI for Beginners · Discover Data Analytics · End-to-End Analytics using Microsoft Fabric
+
+---
+
+## 🛠️ Technical Skills
+
+| Area | Technologies |
+|---|---|
+| **Languages** | Python · JavaScript · TypeScript · Dart · SQL · HTML/CSS |
+| **Machine Learning** | Deep Learning · Signal Processing · Data Analysis · PyTorch · scikit-learn · XGBoost · LightGBM · SHAP · sentence-transformers · pandas · NumPy |
+| **Generative AI & Vision** | Gemini API · OpenCV · docTR (OCR) · Embedding-based retrieval |
+| **MLOps & DevOps** | Docker · Kubernetes (Minikube) · MLflow · GitHub Actions (CI/CD) · Evidently AI · Prometheus · Grafana |
+| **Backend** | FastAPI · Flask · Node.js / Express · REST APIs · NextAuth · JWT-style authentication |
+| **Frontend & Mobile** | React · Next.js · Tailwind CSS · Flutter |
+| **Databases** | PostgreSQL · MongoDB · SQLite |
+| **Deployment & Cloud** | Vercel · DigitalOcean VPS · Nginx · PM2 · Oracle Cloud (OCI) |
+| **Tools** | Git · GitHub · Streamlit · Microsoft Fabric |
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
-
-*Selected projects showcasing my work in Artificial Intelligence, Machine Learning, Research, and Software Development.*
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>♟️ ChessWala</h3>
-<strong>AI-Powered Chess Engine</strong>
+### 🛡️ Sentinel
+**Multi-Signal Email Spam & Phishing Detection**
 
-An intelligent chess engine inspired by AlphaZero, combining neural networks and Monte Carlo Tree Search (MCTS) to evaluate positions and make strategic moves.
+A layered, explainable detection system that fuses MiniLM semantic embeddings, an autoencoder anomaly score (trained only on legitimate mail), and structural signals (SPF/DKIM/DMARC, URL analysis) into a LightGBM meta-classifier with SHAP explanations.
 
-Includes an interactive desktop interface, AI gameplay, and detailed game analysis.
+Evaluated on held-out external benchmarks: the enhanced model reaches **92% accuracy / 0.97 AUC** on Nazario and **91% / 0.97** on an E-PhishLLM holdout, with the baseline generalization gap documented honestly. Ships with a Flask live-Gmail monitor and batch checker.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square" />
+`Python` `PyTorch` `LightGBM` `SHAP` `Flask`
 
-**[Explore Repository →](https://github.com/Matee-ur-Rehman/AI-Chess-Engine)**
+**[Explore Repository →](https://github.com/malikfaizanali048-stack/Multi-Signal-Email-Spam-Phishing-and-Detection-System)**
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🧠 Sleep Mamba</h3>
-<strong>Deep Learning Research Reproduction</strong>
+### 🔐 Network Intrusion Detection with MLOps
+**Production-Grade ML Pipeline**
 
-Reproduction and experimentation based on the SleepMamba research paper, investigating state-space models for automated sleep-stage classification.
+Intrusion detection on CICIDS2017 (2M+ cleaned flows) wrapped in a full MLOps lifecycle: FastAPI serving, Docker and Kubernetes deployment, MLflow model registry with production aliasing, Evidently drift detection, SHAP explainability, and a retraining pipeline with a validation gate and human-approved promotion.
 
-Explores physiological signal processing, model training, and performance evaluation using sleep datasets.
+Includes documented findings on unseen-attack detection gaps and adversarial robustness.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Research-2E8B57?style=flat-square" />
+`FastAPI` `Docker` `Kubernetes` `MLflow` `GitHub Actions`
 
-**[Explore Repository →](https://github.com/Matee-ur-Rehman/Sleep-Mamba)**
+**[Explore Repository →](https://github.com/malikfaizanali048-stack/network-intrusion-mlops)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎓 StudyMind AI</h3>
-<strong>AI-Powered Learning Workspace</strong>
+### 🏫 Smart Institutional Operations and Information System
+**Final Year Project · In Progress**
 
-An intelligent learning workspace designed to help students interact with and learn from their study materials, including documents, online resources, and educational content.
+A comprehensive school management solution for Trends High School, Hassan Abdal, covering authentication and role-based access, attendance, homework, exams and results, fee management, timetable, announcements and reports, through web and mobile apps for administrators, teachers, students and parents.
 
-Explores AI-assisted learning workflows and tools for a more organized and interactive study experience.
+`Flutter` `FastAPI` `PostgreSQL`
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG-4169E1?style=flat-square" />
-
-**[Explore Repository →](https://github.com/Matee-ur-Rehman/QuantumLearningWorkspace)**
+**[Explore Repository →](https://github.com/malikfaizanali048-stack/Smart-Institutional-Management-System)**
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🏫 Smart Institutional Operations and Information System</h3>
-<strong>Final Year Project · In Progress</strong>
+### 🪴 PlantPlanet
+**Full-Stack Nursery E-Commerce Platform**
 
-A comprehensive institutional management solution being developed for Trends High School, Hassan Abdal.
+An e-commerce site for a local plant nursery with product catalog, search and filters, cart and checkout (Cash on Delivery and Stripe), garden-services quote booking, and a secured admin panel for product, order and service-request management. Deployed on Vercel.
 
-Designed to streamline academic and administrative activities through integrated web and mobile applications for administrators, teachers, students, and parents.
+`Next.js 14` `MongoDB` `NextAuth` `Stripe` `TypeScript`
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+**[Explore Repository →](https://github.com/malikfaizanali048-stack/Plant-Planet)**
 
-**[Explore Repository →](https://github.com/Matee-ur-Rehman/Smart-Institutional-Operations-and-Information-System)**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Sleep Mamba
+**Deep Learning Research Reproduction**
+
+Reproduction and experimentation based on the SleepMamba research paper, investigating state-space models for automated sleep-stage classification. Covers physiological signal processing, model training, and performance evaluation on sleep datasets, with results of about 83% accuracy reproduced.
+
+`Python` `PyTorch` `Research`
+
+**[Explore Repository →](https://github.com/malikfaizanali048-stack/Sleep-Mamba-Project)**
+
+</td>
+<td width="50%" valign="top">
+
+### ♟️ ChessWala
+**AI-Powered Chess Engine**
+
+An intelligent chess engine inspired by AlphaZero, combining neural networks and Monte Carlo Tree Search (MCTS) to evaluate positions and make strategic moves. Includes an interactive desktop interface, AI gameplay, and detailed game analysis.
+
+`Python` `PyTorch` `MCTS`
+
+**[Explore Repository →](https://github.com/malikfaizanali048-stack/ChessWala_engine)**
 
 </td>
 </tr>
 </table>
 
+### 📂 More Repositories
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Matee-ur-Rehman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Matee-ur-Rehman&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Matee-ur-Rehman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+| Repository | Focus |
+|---|---|
+| [Codebench](https://github.com/malikfaizanali048-stack/Codebench) | Online coding assessment platform (Node.js / Express) |
+| [DualStabSleepNet_project](https://github.com/malikfaizanali048-stack/DualStabSleepNet_project) | Sleep-stage classification paper reproduction |
+| [document-reterival-project](https://github.com/malikfaizanali048-stack/document-reterival-project) | Document retrieval with Python |
+| [Mart-Management-System](https://github.com/malikfaizanali048-stack/Mart-Management-System) | Mart management application in Python |
+| [loan_approval_predictor](https://github.com/malikfaizanali048-stack/loan_approval_predictor) | Machine learning loan approval prediction |
+| [mall_customer_segmentation](https://github.com/malikfaizanali048-stack/mall_customer_segmentation) | Customer segmentation analysis |
+| [book_recomendation_system](https://github.com/malikfaizanali048-stack/book_recomendation_system) | Book recommendation system |
+| [python-to-ai-bootcamp](https://github.com/malikfaizanali048-stack/python-to-ai-bootcamp) | GDGoC CUI Wah bootcamp (fork): Python fundamentals and data analysis |
 
 ---
-[![](https://komarev.com/ghpvc/?username=Matee-ur-Rehman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=malikfaizanali048-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="170" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=malikfaizanali048-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=malikfaizanali048-stack&theme=dark&hide_border=false" />
+</p>
+
+---
+
+<div align="center">
+
+**Let's build something reliable together.** Reach out on [LinkedIn](https://www.linkedin.com/in/malikfaizanali).
+
+</div>
